@@ -89,13 +89,13 @@ My work combines **execution speed, system thinking, and continuous iteration** 
 ## Selected Projects (Auto Sync)
 
 <p align="center">
-  <img src="[https://github-readme-stats.vercel.app/api/pin/?username=padmanabhansb08](https://github.com/padmanabhansb08/palmplay_music)&Palmplay&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=padmanabhansb08&repo=REPO_NAME_2&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=padmanabhansb08&repo=palmplay_music&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=padmanabhansb08&repo=Bio-Quorix&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=padmanabhansb08&repo=REPO_NAME_3&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=padmanabhansb08&repo=REPO_NAME_4&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=padmanabhansb08&repo=RAG-Content-Optimizer&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=padmanabhansb08&repo=Intelli-Credit&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
