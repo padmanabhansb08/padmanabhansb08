@@ -89,7 +89,7 @@ My work combines **execution speed, system thinking, and continuous iteration** 
 ## Selected Projects (Auto Sync)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=padmanabhansb08&repo=palmplay_music&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=padmanabhansb08&repo=palmplay-music&theme=tokyonight&hide_border=true"/>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=padmanabhansb08&repo=Bio-Quorix&theme=tokyonight&hide_border=true"/>
 </p>
 
