@@ -169,3 +169,9 @@ Execution Defines Identity
 <p align="center">
 Last Updated: April 2026
 </p>
+
+<p align="center">
+  <img src="<p align="center">
+  <img src="[https://komarev.com/ghpvc/?username=padmanabhansb08&label=PROFILE+VIEWS&color=1F6FEB&style=flat](https://private-user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzY3NjAxMjYsIm5iZiI6MTc3Njc1OTgyNiwicGF0aCI6Ii83NDAzODE5MC8yNDA5MDYwOTMtOWJlNGQzNDQtNjc4Mi00NjFhLWI1YTYtMzJhMDdiZjdiMzRlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA0MjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNDIxVDA4MjM0NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU0NWUyYzc0YTRiNTIyNGYyZjBkMDI1YzczNjUzMzQ0ZTc4ZDY5NTU2NzY2ZTAyMjNhYjRhNTlhNTZkMjRmZGQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.2ytnXFm4EPZMtcBHFmqYblLdzZj2SVDQXMGEQciGeBM)"/>
+</p>"/>
+</p>
