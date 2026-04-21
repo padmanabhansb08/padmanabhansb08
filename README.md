@@ -1,4 +1,4 @@
-<!-- ================= NEON HEADER ================= -->
+<!-- ================= NEON HEADER (REFINED) ================= -->
 
 <h1 align="center">PADMANABHAN SURESH BABU</h1>
 
@@ -7,10 +7,10 @@ AI Systems Builder • Offline Intelligence • Future Engineer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2800&color=00F7FF&center=true&vCenter=true&width=900&lines=Designing+AI+Without+Internet;Building+Scalable+Real-World+Systems;Execution+Driven+Development;Focused+on+Impact" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2800&color=58A6FF&center=true&vCenter=true&width=900&lines=Designing+AI+Without+Internet;Building+Scalable+Real-World+Systems;Execution+Driven+Development;Focused+on+Impact" />
 </p>
 
-<!-- NEON GRID LINE -->
+<!-- LINE -->
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/line.gif" width="100%">
@@ -22,22 +22,22 @@ AI Systems Builder • Offline Intelligence • Future Engineer
 
 <p align="center">
   <a href="https://github.com/padmanabhansb08">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/padmanabhan-suresh-babu-1534ba3a6/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://x.com/Padmanabha7630">
-    <img src="https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x"/>
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
   <a href="https://padmanabhansfolio.framer.website/">
-    <img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=google-chrome&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-<!-- ================= HERO VISUAL ================= -->
+<!-- ================= HERO ================= -->
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/ai.gif" width="500"/>
@@ -49,8 +49,8 @@ AI Systems Builder • Offline Intelligence • Future Engineer
 
 ## About
 
-I build **AI systems designed for real-world constraints**, with a focus on **offline intelligence and scalable architectures**.
-My work combines **execution speed, system thinking, and continuous iteration** to deliver usable technology.
+I build **AI systems designed for real-world constraints**, focusing on **offline intelligence and scalable architectures**.
+My approach combines **execution speed, system thinking, and continuous iteration** to deliver practical solutions.
 
 ---
 
@@ -76,17 +76,17 @@ My work combines **execution speed, system thinking, and continuous iteration** 
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI_SYSTEMS-00F7FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/OFFLINE_AI-0A0A0A?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AUTOMATION-111111?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/UI_ENGINEERING-1F1F1F?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI_SYSTEMS-1F6FEB?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OFFLINE_AI-238636?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AUTOMATION-30363D?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/UI_ENGINEERING-8B949E?style=for-the-badge&logoColor=white"/>
 </p>
 
 ---
 
-<!-- ================= DYNAMIC PROJECTS ================= -->
+<!-- ================= PROJECTS ================= -->
 
-## Selected Projects (Auto Sync)
+## Selected Projects
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=padmanabhansb08&repo=Palmplay&theme=tokyonight&hide_border=true"/>
@@ -100,7 +100,7 @@ My work combines **execution speed, system thinking, and continuous iteration** 
 
 ---
 
-<!-- ================= VISUAL BREAK ================= -->
+<!-- ================= VISUAL ================= -->
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/coding.gif" width="500"/>
@@ -138,7 +138,7 @@ My work combines **execution speed, system thinking, and continuous iteration** 
 ## Education
 
 Sri Shakthi Institute of Engineering and Technology
-Bachelor of Engineering
+Bachelor of Engineering (CSE)
 
 ---
 
@@ -148,9 +148,9 @@ Bachelor of Engineering
 
 Open for:
 
-* AI Projects
-* Hackathons
-* System Design Collaborations
+• AI Projects
+• Hackathons
+• System Design Collaborations
 
 Contact: [padmanabhanonly@gmail.com](mailto:padmanabhanonly@gmail.com)
 
@@ -159,7 +159,7 @@ Contact: [padmanabhanonly@gmail.com](mailto:padmanabhanonly@gmail.com)
 <!-- ================= FOOTER ================= -->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=padmanabhansb08&label=PROFILE+VIEWS&color=00F7FF&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=padmanabhansb08&label=PROFILE+VIEWS&color=1F6FEB&style=flat"/>
 </p>
 
 <p align="center">
